@@ -53,7 +53,7 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
 
-[Lecture Slides](Lecture Slides/01-Introduction-and-Tidy-Code.pptx)
+[Lecture Slides](Lecture-Slides/01-Introduction-and-Tidy-Code.pptx)
 
 
 ## **02 Loops And Debugging**
