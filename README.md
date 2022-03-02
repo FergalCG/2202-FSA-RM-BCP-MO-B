@@ -60,7 +60,7 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
 
-<!--[Lecture Slides](Lecture-Slides/02-Loops-and-Debugging.pptx)
+[Lecture Slides](Lecture-Slides/02-Loops-and-Debugging.pptx)
 
 **[Live Lecture + Review](https://youtu.be/aKAo_6Lu3NI)**
 
@@ -69,7 +69,7 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
 
 
-## **03 Coercion and Truthiness**
+<!--## **03 Coercion and Truthiness**
 
 [Lecture Slides](Lecture-Slides/03-Coercion-and-Truthiness.pptx)
 
