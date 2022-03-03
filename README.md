@@ -8,8 +8,8 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
-<!--3. [Coercion And Truthiness](#03-coercion-and-truthiness)
-4. [Caesar Cypher](#04-caesar-cypher)
+3. [Coercion And Truthiness](#03-coercion-and-truthiness)
+<!--4. [Caesar Cypher](#04-caesar-cypher)
 5. [Scope](#05-scope)
 6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-ii)
@@ -69,18 +69,18 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
 
 
-<!--## **03 Coercion and Truthiness**
+## **03 Coercion and Truthiness**
 
 [Lecture Slides](Lecture-Slides/03-Coercion-and-Truthiness.pptx)
 
-**[Live Lecture + Review](https://youtu.be/E9cwiDBAP9M)**
+**[Live Lecture + Review](https://youtu.be/Es9bRyJgdtU)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed59/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed5b/text)
 
 
-## **04 Caesar Cypher**
+<!--## **04 Caesar Cypher**
 
 [Lecture Slides](Lecture-Slides/04-REACTO-Caesar-Cypher.pdf)
 
