@@ -9,9 +9,9 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
-<!--4. [Caesar Cypher](#04-caesar-cypher)
+4. [Caesar Cypher](#04-caesar-cypher)
 5. [Scope](#05-scope)
-6. [Arrays I](#06-arrays-I)
+<!--6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
@@ -80,7 +80,7 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 [Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed5b/text)
 
 
-<!--## **04 Caesar Cypher**
+## **04 Caesar Cypher**
 
 [Lecture Slides](Lecture-Slides/04-REACTO-Caesar-Cypher.pdf)
 
@@ -107,7 +107,7 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
 
-## **06 Arrays I**
+<!--## **06 Arrays I**
 
 **[Live Lecture + Solutions](https://youtu.be/9C4qPsjl7sA)**
 
