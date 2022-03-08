@@ -84,7 +84,7 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 
 [Lecture Slides](Lecture-Slides/04-REACTO-Caesar-Cypher.pdf)
 
-**[Live Lecture (REACTO)](https://youtu.be/nRSler1WJbs)**
+**[Live Lecture (REACTO) + Workshop Review](https://youtu.be/kR8ViL4V22k)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
