@@ -98,7 +98,7 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 
 ## **05 Scope**
 
-**[Live Lecture + Workshop Review](https://youtu.be/yaY7wvap1nw)**
+**[Live Lecture + Workshop Review](https://youtu.be/WyCdgAMown0)**
 
 **[Lecture Slides](Lecture-Slides/05-Scope.pptx)**
 
