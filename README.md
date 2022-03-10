@@ -11,9 +11,9 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Caesar Cypher](#04-caesar-cypher)
 5. [Scope](#05-scope)
-<!--6. [Arrays I](#06-arrays-I)
+6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-ii)
-8. [Sudoku Validator](#08-sudoku-validator)
+<!--8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
 10. [Object Methods](#10-object-methods)
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
@@ -107,7 +107,7 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
 
-<!--## **06 Arrays I**
+## **06 Arrays I**
 
 **[Live Lecture + Solutions](https://youtu.be/9C4qPsjl7sA)**
 
@@ -129,7 +129,7 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
 
-## **08 Sudoku Validator**
+<!--## **08 Sudoku Validator**
 
 **[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
 
