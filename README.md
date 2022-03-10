@@ -120,13 +120,15 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 
 ## **07 Arrays II**
 
-**[Live Lecture + Workshop Review](https://youtu.be/3qPyLAlVSRk)**
+**[Live Lecture](https://youtu.be/mfjZh4Up0ag)**
 
 **[Lecture Slides](Lecture-Slides/07-Arrays-II.pptx)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
+
+**Workshop Review to come Thursday night**
 
 
 <!--## **08 Sudoku Validator**
