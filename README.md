@@ -128,8 +128,6 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
-**Workshop Review to come Thursday night**
-
 
 ## **08 Sudoku Validator**
 
