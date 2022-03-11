@@ -131,9 +131,9 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 **Workshop Review to come Thursday night**
 
 
-<!--## **08 Sudoku Validator**
+## **08 Sudoku Validator**
 
-**[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
+**[Live Lecture](https://youtu.be/yHGmFEnaOxw)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
 
@@ -144,7 +144,7 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
 
 
-## **09 Objects**
+<!--##  **09 Objects**
 
 **[Live Lecture + Review](https://youtu.be/8WO9DpQIPcs)**
 
