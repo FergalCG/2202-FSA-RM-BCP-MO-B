@@ -13,9 +13,9 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 5. [Scope](#05-scope)
 6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-ii)
-<!--8. [Sudoku Validator](#08-sudoku-validator)
+8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
-10. [Object Methods](#10-object-methods)
+<!-- 10. [Object Methods](#10-object-methods)
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
 13. [Higher Order Functions II](#13-higher-order-functions-ii)
@@ -142,9 +142,9 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
 
 
-<!--##  **09 Objects**
+##  **09 Objects**
 
-**[Live Lecture + Review](https://youtu.be/8WO9DpQIPcs)**
+**[Live Lecture + Review](https://youtu.be/NNEuxhquffQ)**
 
 [Lecture Slides](Lecture-Slides/07-Objects.pptx)
 
@@ -153,7 +153,7 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
 
 
-## **10 Object Methods**
+<!-- ## **10 Object Methods**
 
 **[Live Lecture + Review](https://youtu.be/TCN87j_ex5A)**
 
