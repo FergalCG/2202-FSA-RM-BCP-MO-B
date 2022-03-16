@@ -192,10 +192,10 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)
+-->
+## **10 Recursion I**
 
-## **14 Recursion I**
-
-**[Live Lecture + Review](https://youtu.be/J5lk5cmJlkM)**
+**[Live Lecture](https://youtu.be/vmeDZ6B6uQw)**
 
 [Lecture Slides](Lecture-Slides/12-Recursion-I.pptx)
 
@@ -203,7 +203,7 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
 
-## **15 Recursion II**
+<!-- ## **15 Recursion II**
 
 **[Live Lecture + Review](https://youtu.be/zBghZMnA0mk)**
 
