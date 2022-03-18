@@ -205,7 +205,10 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 
 ## **15 Recursion II**
 
-**[Live Lecture + Review](https://youtu.be/zBghZMnA0mk)**
+<!--**[Live Lecture + Review](https://youtu.be/zBghZMnA0mk)**-->
+**[Live Lecture](https://youtu.be/WCRL9B-YnUc)**
+
+**[Workshop Review](https://youtu.be/H1VJYVF9T0k)**
 
 [Lecture Slides](Lecture-Slides/13-Recursion-II.pptx)
 
