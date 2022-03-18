@@ -15,13 +15,13 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
-<!-- 10. [Object Methods](#10-object-methods)
+10. [Object Methods](#10-object-methods)
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
 13. [Higher Order Functions II](#13-higher-order-functions-ii)
 14. [Recursion I](#14-recursion-i)
 15. [Recursion II](#15-recursion-ii)
-16. [Next Steps](#16-next-steps)-->
+16. [Next Steps](#16-next-steps)
 
 ## Additional Resources
 
@@ -153,7 +153,7 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
 
 
-<!-- ## **10 Object Methods**
+ ## **10 Object Methods**
 
 **[Live Lecture + Review](https://youtu.be/TCN87j_ex5A)**
 
@@ -192,7 +192,7 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)
--->
+
 ## **10 Recursion I**
 
 **[Live Lecture](https://youtu.be/vmeDZ6B6uQw)**
@@ -203,7 +203,7 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
 
-<!-- ## **15 Recursion II**
+## **15 Recursion II**
 
 **[Live Lecture + Review](https://youtu.be/zBghZMnA0mk)**
 
@@ -219,4 +219,4 @@ Hello! This is where Ziv and I will put all the material for BCP. If any of the 
 
 [Lecture Slides](Lecture-Slides/14-Next-Steps.pptx)
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5aca5637c6f1bb0004fcdab0/landing)-->
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca5637c6f1bb0004fcdab0/landing)
